@@ -1,0 +1,85 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Network",
+      "description": "\u2605 Buildout deployments\n\u2605 Datacenter Switching\n\u2605 VPN tunnel formation\n\u2605 Network OS\n\u2605 Routers\n\u2605 Layer - 2/3 Protocoling\n\u2605 IP Networking\n\u2605 CI/CD\n\u2605 Jenkins\n\u2605 Hadoop Data\n\u2605 Kafka\n\u2605 Ansible"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Languages",
+      "description": "\u2605 C++\n\u2605 Python\n\u2605 Java\n\u2605 Javascript\n\u2605 SQL\n "
+    },
+    {
+      "id": "3",
+      "src": "./img/product-chain-1.png",
+      "title": "Technology",
+      "description": "\u2605 MERN \n\u2605 Bootstrap\n\u2605 PuTTY\n\u2605 Rest API\n\u2605 HTML\n\u2605 CSS\n\u2605 Angular\n\u2605 NextJS \n\u2605 Amazon Web Services \n\u2605 Azure"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Skills",
+      "description": "\u2605 Linux\n\u2605 PowerBI\n\u2605 Git\n\u2605Application Layering\n\u2605Unit Testing\n\u2605 Tableau\n\u2605 Penetration - Testings\n\u2605 Database Handling\n\u2605 Splunk\n\u2605 CI/CD \n\u2605 Linux\n\u2605 Unix \n\u2605 Figma\n"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/2.jpg",
+      "title": "NammaBNB",
+      "description": "The Nammabnb project is designed to replicate key functionalities of the popular accommodation booking platform, Nammabnb. This project incorporates HTML, CSS, and TypeScript for the front end, and MongoDB for backend data storage.",
+      "link": "https://github.com/smank7/Nammabnb"
+    },
+    {
+      "id": "1",
+      "src": "./img/3.jpg",
+      "title": "Donor Management System",
+      "description": "Our System ensures both security and efficiency in facilitating seamless data exchange between donors and patients, ensuring timely and targeted support for patients in need, With a user-friendly interface.",
+      "link": "https://github.com/smank7/Donor-Management-System"
+    },
+    {
+      "id": "1",
+      "src": "./img/4.png",
+      "title": "GCP + Terraform App",
+      "description": "Managed development and production environments on GCP. Optimized workflows with GitHub Actions for CI/CD, Developed Cloud Functions for improving security, performance, and observability.",
+      "link": "https://github.com/smank7/webapp"
+    }
+  ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "header2": "Network Engineer",
+        "header3": "Aug 2021 - Aug 2023",
+        "description": "• Configured and troubleshooted aspects of SD WAN (VPN tunnel formation, routing & and switching in the wireless network division) leading to customer success.\\n• Worked on an AI tool in Ansible for automation work in Change Management and Fortinet Implementation.\n\n• This is another line in the description.",
+        "author_name": "BARCLAYS"
+      },
+      
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+       
+        "header2": "Subtitle",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "SHEZIGS"
+       
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+       
+        "header2": "Additional Info",
+        "header3": "Some Additional Info",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "YOKOGAWA"
+      
+      }
+    ]
+  }
+  
